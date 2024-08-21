@@ -41,3 +41,17 @@ Deployment: Launch the site on a live server.
 Monitoring: Monitor the site for any issues post-launch and ensure everything is functioning as expected.
 8. Post-Launch Support and Maintenance
 Bug Fixes: Address any issues or bugs that arise after launch.
+
+
+![Screenshot 2024-08-21 185837](https://github.com/user-attachments/assets/1266c53c-a422-471d-9e3c-c211b0164295)
+
+
+
+
+
+
+
+
+
+
+
