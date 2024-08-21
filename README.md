@@ -42,6 +42,8 @@ Monitoring: Monitor the site for any issues post-launch and ensure everything is
 8. Post-Launch Support and Maintenance
 Bug Fixes: Address any issues or bugs that arise after launch.
 
+OUTPUT
+
 
 ![Screenshot 2024-08-21 190645](https://github.com/user-attachments/assets/30e17ffd-5fbe-4138-bea8-722c92dcec28)
 
