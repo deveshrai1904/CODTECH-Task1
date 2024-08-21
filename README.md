@@ -47,6 +47,13 @@ Bug Fixes: Address any issues or bugs that arise after launch.
 
 
 
+![Screenshot 2024-08-21 185910](https://github.com/user-attachments/assets/5ce8f0c0-04c9-4325-b1a1-1b6bdae6d195)
+
+
+
+
+
+
 
 
 
