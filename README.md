@@ -43,7 +43,8 @@ Monitoring: Monitor the site for any issues post-launch and ensure everything is
 Bug Fixes: Address any issues or bugs that arise after launch.
 
 
-![Screenshot 2024-08-21 185837](https://github.com/user-attachments/assets/1266c53c-a422-471d-9e3c-c211b0164295)
+![Screenshot 2024-08-21 190645](https://github.com/user-attachments/assets/30e17ffd-5fbe-4138-bea8-722c92dcec28)
+
 
 
 
